@@ -1,7 +1,7 @@
 
 commit one
 commit two
-commit three
+commit three Fred
 
 
 
